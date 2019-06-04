@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Bus"
+        android:orderInCategory="100"
+        android:id="@+id/Bus"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="Car"
+        android:orderInCategory="100"
+        android:id="@+id/Car"
+        app:showAsAction="never"/>
+
+    <item
+        android:title="Truck"
+        android:orderInCategory="100"
+        android:id="@+id/Truck"
+        app:showAsAction="never"/>
+
+
+</menu>
